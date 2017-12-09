@@ -7,6 +7,8 @@ Press up or space bar to launch the ball.
 
 Press and hold X to grab the ball when it is in play.
 
+Press R to reset the ball and lose a life. This should only be used when the ball gets stuck.
+
 ## Audio
 
 The background music on the main menu is from Unreal Engine's starter content.
