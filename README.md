@@ -1,11 +1,13 @@
-# MoneyBreaker
-Money breaker is a clone of Brick Breaker. The goal of the game is to waste all of your money by destroying the wads of cash.
+# Money Breaker
+Money Breaker is a clone of Brick Breaker. The goal of the game is to waste all of your money by destroying wads of cash.
 
 Use the left and right arrow keys to control the paddle.
 
 Press up or space bar to launch the ball.
 
 Press and hold X to grab the ball when it is in play.
+
+Press R to reset the ball and lose a life. This should only be used when the ball gets stuck.
 
 ## Audio
 
